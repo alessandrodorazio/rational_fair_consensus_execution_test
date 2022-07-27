@@ -185,7 +185,6 @@ for u in range(1, n):
 
 
 
-    # manca la parte del controllo di consistenza tra Wu e Lu
 
 supported_colors = {}
 
